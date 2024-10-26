@@ -1,4 +1,7 @@
 @extends('layout.app')
+
+@section('title', 'Contact')
+
 @section('contact')
 
   <!-- Header Start -->

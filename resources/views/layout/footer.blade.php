@@ -37,7 +37,7 @@
                             <a href="{{route("about")}}"><i class="fas fa-angle-right me-2"></i> About Us</a>
                             <a href="{{route("products")}}"><i class="fas fa-angle-right me-2"></i> Products</a>
                             <a href="{{route("quality")}}"><i class="fas fa-angle-right me-2"></i> Quality</a>
-                            <a href="{{route("products")}}"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                            <a href="{{route("gallery")}}"><i class="fas fa-angle-right me-2"></i> Gallery</a>
                             <a href="{{route("contact")}}"><i class="fas fa-angle-right me-2"></i> Contact us</a>
                            
                         </div>
@@ -64,7 +64,7 @@
                             <h4 class="text-white mb-4">Contact Info</h4>
                             <a href="#"><i class="fa fa-map-marker-alt me-2"></i>Bale Mountain , Dhinsho , Oromia , Ethiopia</a>
                             <a href="mailto:info@example.com"><i class="fas fa-envelope me-2"></i>info@dinshospringwater.com</a>
-                            <a href="tel:+012 345 67890" class="mb-3"><i class="fas fa-print me-2"></i>++251 911 33 4308 /+251 911 33 4370/ +251 930 49 1349</a>
+                            <a href="tel:+012 345 67890" class="mb-3"><i class="fas fa-phone me-2"></i>++251 911 33 4308 /+251 911 33 4370/ +251 930 49 1349</a>
                         </div>
                     </div>
                 </div>

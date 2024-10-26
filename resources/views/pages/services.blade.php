@@ -1,5 +1,6 @@
 @extends('layout.app')
 
+@section('title', 'Services')
 
 @section('services')
 <!-- Header Start -->

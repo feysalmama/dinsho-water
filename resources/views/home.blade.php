@@ -1,5 +1,5 @@
 @extends('layout.app')
-
+@section('title', 'Home')
 @section('hero')
  @include('layout.hero')
 @endsection

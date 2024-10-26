@@ -1,4 +1,7 @@
 @extends('layout.app')
+
+@section('title', 'Product')
+
 @section('products')
 
  <!-- Header Start -->

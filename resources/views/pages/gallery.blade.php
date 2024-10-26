@@ -1,4 +1,8 @@
 @extends('layout.app')
+
+@section('title', 'Gallery')
+
+
 @section('gallery')
 
 
