@@ -26,13 +26,13 @@
                 <!-- Text Section -->
                 <div class="col-md-6">
                     <h2 class="text-primary mb-4">More About Dinsho Natural Spring Water</h2>
-                    <p>Dinsho Bottling's water is derived from <span class="highlight-text">Dinsho Park</span>, located in the heart of the Bale Mountains. It offers a refreshing flavor that reflects water sourced from some of the rarest highland areas, enriched with natural minerals and nutrients from the surrounding environment.</p>
+                    <p>Dinsho Natural Spring water is sourced from <span class="highlight-text">Dinsho Park</span>, located in the heart of the Bale Mountains. It offers a refreshing flavor that reflects water sourced from some of the rarest highland areas, enriched with natural minerals and nutrients from the surrounding environment.</p>
                     <p>We utilize top-quality <span class="highlight-text">HDP pipe installations</span> for extracting and producing our water, ensuring the highest standard.</p>
 
                     <!-- Job Info Section -->
                     <div class="job-info">
                         <h5 class="text-center text-success">Job Creation and Impact</h5>
-                        <p>The establishment and growth of the Dinsho Natural Spring Water Bottling Factory are expected to generate:</p>
+                        <p>The establishment and growth of Dinsho Natural Spring Water Bottling Factory is expected to generate:</p>
                         <ul class="list-unstyled">
                             <li><strong>150+ Permanent Jobs</strong> for local residents</li>
                             <li><strong>250+ Temporary Jobs</strong> during various stages of operation</li>
@@ -60,7 +60,7 @@
                             </div>
                             <h4 class="card-title">Vision</h4>
                             <p class="card-text">
-                                Dinsho Natural Spring Water Bottling Factory aspires to be the leader in bottled water from protected underground aquifers while emphasizing sustainability and environmental responsibility offerings through state-of-the-art bottling facilities in East Africa by exceeding customers’ and other stakeholder’s expectations. 
+                                Dinsho Natural Spring Water Bottling Factory aspires to be the leader in bottled water from protected underground aquifers while emphasizing sustainability and environmental responsibility offerings through State of the art technology bottling facilities in East Africa by exceeding customers’ and other stakeholder’s expectations. 
                             </p>
                         </div>
                         <div class="card-footer text-muted">
@@ -96,7 +96,7 @@
                             </div>
                             <h4 class="card-title">Plant</h4>
                             <p class="card-text">
-                                The plant is situated in the southern region of Ethiopia, specifically in the Bale zone near Mount Dinsho. This area is remarkably adorned with lush, evergreen forests and is blessed with plentiful and sustainable water resources. The bottling facility is thoughtfully integrated into the mountainous landscape.
+                                The plant is situated in the southern region of Ethiopia, specifically in the Bale zone near Mount Dinsho. This area is remarkably adorned with lush, evergreen forests and is blessed with sustainable water resources. The bottling facility is thoughtfully integrated into the mountainous landscape.
                             </p>
                         </div>
                         <div class="card-footer text-muted">
@@ -114,7 +114,7 @@
                             </div>
                             <h4 class="card-title">The Company</h4>
                             <p class="card-text">
-                                Dinsho Natural Spring Water Bottling Factory is a company that specializes in the bottling and distribution of natural spring water in Ethiopia. Following the successful setup of its bottling machinery, the company began producing and distributing its bottled natural spring water under the brand name DINSHO Spring to both local and international markets.
+                                Dinsho Natural Spring Water Bottling Factory is a company that specializes in the bottling and distribution of natural spring water in Ethiopia. Following the successful setup of its bottling machinery, the company began producing and distributing its bottled natural spring water under the brand name DINSHO Spring to the local market and Besides the Company has a short term plan to distribute to the international markets.
                             </p>
                         </div>
                         <div class="card-footer text-muted">

@@ -11,7 +11,7 @@
                     <div class="col-xl-6 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="about-item">
                             <h4 class="text-primary text-uppercase">About Us</h4>
-                            <h1 class="display-3 mb-3">Derived From Dinsho Park.</h1>
+                            <h1 class="display-3 mb-3">Sourced from Dinsho Park.</h1>
                             <p class="mb-4">Located 400km southeast of Addis Ababa, Bale Mountains National Park contains a spectacularly diverse landscape. The high altitude, afro-montane Sanetti Plateau rises to over 4,000m and includes the highest peak in the southern Ethiopia highlands. This undulating plateau is marked by numerous glacial lakes and swamps and surrounded by higher volcanic ridges and peaks. The southern slopes are covered by the lush and largely unexplored Harenna Forest.
                             </p>
                             <div class="bg-light rounded p-4 mb-4">
@@ -23,7 +23,7 @@
                                             </div>
                                             <div class="">
                                                 <a href="#" class="h4 d-inline-block mb-3">Rare Find</a>
-                                                <p class="mb-0">he high altitude, afro-montane Sanetti Plateau rises to over 4,000m and includes the highest peak in the southern Ethiopia highlands.</p>
+                                                <p class="mb-0">the high altitude, afro-montane Sanetti Plateau rises to over 4,000m and includes the highest peak in the southern Ethiopia highlands.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -37,7 +37,7 @@
                                                 <div class="rounded-circle bg-primary d-flex align-items-center justify-content-center" style="width: 80px; height: 80px;"><i class="fas fa-faucet text-white fa-2x"></i></div>
                                             </div>
                                             <div class="">
-                                                <a href="#" class="h4 d-inline-block mb-3">Standard Product</a>
+                                                <a href="#" class="h4 d-inline-block mb-3">Standardized Product</a>
                                                 <p class="mb-0">Our Natural Spring bottled water is produced in accordance with the highest quality standards of international measures.</p>
                                             </div>
                                         </div>

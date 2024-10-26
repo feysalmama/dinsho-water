@@ -23,7 +23,7 @@
                         <div class="footer-item d-flex flex-column">
                             <div class="footer-item">
                                 <img src="{{asset("img/logo.png")}}" alt="" width="100" height="80">
-                                <p class="mb-3">Dinsho Bottling's water is derived from Dinsho Park, located in the heart of the Bale Mountains. It offers a refreshing flavor that reflects water sourced from some of the rarest highland areas.</p>
+                                <p class="mb-3">Dinsho Natural Spring Water is sourced from Dinsho Park, located in the heart of the Bale Mountains.</p>
                             </div>
                             <div class="position-relative">
                                 <input class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Enter your email">
@@ -64,7 +64,7 @@
                             <h4 class="text-white mb-4">Contact Info</h4>
                             <a href="#"><i class="fa fa-map-marker-alt me-2"></i>Bale Mountain , Dhinsho , Oromia , Ethiopia</a>
                             <a href="mailto:info@example.com"><i class="fas fa-envelope me-2"></i>info@dinshospringwater.com</a>
-                            <a href="tel:+012 345 67890" class="mb-3"><i class="fas fa-print me-2"></i>+25191133333</a>
+                            <a href="tel:+012 345 67890" class="mb-3"><i class="fas fa-print me-2"></i>++251 911 33 4308 /+251 911 33 4370/ +251 930 49 1349</a>
                         </div>
                     </div>
                 </div>
