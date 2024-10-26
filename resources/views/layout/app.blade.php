@@ -8,13 +8,13 @@
 
             <!-- SEO Metadata -->
         <meta name="description" content="Dinsho Natural Spring Water Bottling Factory">
-        <meta name="keywords" content="Its blessed source is placed deep in the original wilderness of the mountains, where we’ve been bottling it to preserve its mineral-rich taste and the planet.">
+        <meta name="keywords" content="Dinsho Natural Spring Water Bottling Factory is a company that specializes in the bottling and distribution of natural spring water in Ethiopia.">
         <meta name="author" content="Dinsho Natural Spring Water Bottling Factory">
         <meta name="robots" content="index, follow">
 
         <!-- Open Graph Metadata (for social media sharing) -->
         <meta property="og:title" content="Dinsho Natural Spring Water Bottling Factory">
-        <meta property="og:description" content="Its blessed source is placed deep in the original wilderness of the mountains, where we’ve been bottling it to preserve its mineral-rich taste and the planet">
+        <meta property="og:description" content="Dinsho Natural Spring Water Bottling Factory is a company that specializes in the bottling and distribution of natural spring water in Ethiopia.">
         <meta property="og:image" content="https://dinshospringwater.com">
         <meta property="og:url" content="https://dinshospringwater.com/">
 
